@@ -1,18 +1,4 @@
-# -Amazon-EKS-Elastic-Kubernetes-Service-cluster
-
-🚀 Exciting News! 🚀
-
-I’m thrilled to share that I’ve successfully created an Amazon EKS (Elastic Kubernetes Service) cluster with a fully functional node group! 🎉
-
-This was an incredible learning experience, and I’m proud to have tackled the challenges along the way, including configuring subnets, IAM roles, and ensuring seamless communication between the control plane and worker nodes.
-
-Here’s a quick breakdown of what I accomplished:
-✅ EKS Cluster Creation: Set up a highly available Kubernetes control plane using Terraform.
-✅ Node Group Configuration: Deployed a scalable node group with 6 worker nodes to handle containerized workloads.
-✅ Networking Setup: Configured VPC, subnets, and routing to ensure secure and efficient communication.
-✅ Automation: Used Terraform to automate the entire infrastructure setup, making it reproducible and scalable.
-
-A special shoutout to the AWS EKS documentation and the Terraform community for their invaluable resources and support! 🙌
+# Amazon-EKS-Elastic-Kubernetes-Service-cluster
 
 How to Use:
 Save the variables.tf and main.tf files in the same directory.
